@@ -1,2 +1,2 @@
 # scrum1
-Descrição scrum1
+Descrição Barbearia
